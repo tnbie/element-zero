@@ -18,7 +18,7 @@
 
 ## expect
 - learning
-- oo
+- object oriented programming
 - single page application
 - practice agile thinking
 - micro services
